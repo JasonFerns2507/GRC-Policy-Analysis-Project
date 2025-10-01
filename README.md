@@ -33,6 +33,16 @@ The analysis was performed on the company's existing **Acceptable Use Policy (AU
 ---
 
 ### 4. Recommendations & Revised Policy
-*_(This is where we will summarize our recommendations)_*
+
+To address the identified gaps and mitigate the associated risks, I have drafted an updated version of the Acceptable Use Policy. The key recommendations incorporated into the new version include:
+
+* **Expanded Scope:** The policy's scope (Section 2.0) has been updated to explicitly include personal devices used under the BYOD program.
+  
+* **New Security Baselines:** A new section (4.0) has been added to mandate minimum security controls for all BYOD devices, including passcodes, encryption, and VPN usage.
+  
+* **Clear Offboarding Process:** A new section (6.0) now defines a clear process for wiping corporate data from personal devices upon employee termination.
+  
+
+The revised policy incorporates these necessary changes to support the BYOD program securely.
 
 [Link to the Revised AUP Policy](./Revised_AUP_Policy.md)
