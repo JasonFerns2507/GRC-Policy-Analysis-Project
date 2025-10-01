@@ -18,7 +18,11 @@ The analysis was performed on the company's existing **Acceptable Use Policy (AU
 ---
 
 ### 3. Gap Analysis Findings
-*_(This is where we will add our findings)_*
+
+* **Gap 1: Scope Limitation**
+    * **Analysis:** The policy is explicitly scoped to "company-owned computers" (Section 2.0). It does not cover personal devices, making the entire policy unenforceable for the new BYOD program.
+    * **Risk:** Without a clear policy scope, there is no legal or administrative basis to enforce security controls on employee-owned devices, creating a massive security and compliance blind spot.
+ 
 
 ---
 
