@@ -23,7 +23,9 @@ The analysis was performed on the company's existing **Acceptable Use Policy (AU
     * **Analysis:** The policy is explicitly scoped to "company-owned computers" (Section 2.0). It does not cover personal devices, making the entire policy unenforceable for the new BYOD program.
     * **Risk:** Without a clear policy scope, there is no legal or administrative basis to enforce security controls on employee-owned devices, creating a massive security and compliance blind spot.
  
-
+* **Gap 2: Lack of Minimum Security Baselines for Devices**
+    * **Analysis:** The policy does not mandate any specific security controls for the personal devices themselves. There are no requirements for device passcodes, biometrics, data encryption, VPN usage when on public Wi-Fi, or keeping the operating system updated.
+    * **Risk:** An employee's unsecured personal device could be lost or stolen, providing an attacker with direct access to corporate data. Unpatched devices are also vulnerable to malware that could spread to the company network.
 ---
 
 ### 4. Recommendations & Revised Policy
