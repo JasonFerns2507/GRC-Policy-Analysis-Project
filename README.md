@@ -1,7 +1,7 @@
 # GRC Project: Security Policy Gap Analysis
 
 ### Objective
-This project demonstrates the process of performing a gap analysis on an existing corporate security policy in response to a new business initiative. The goal is to identify outdated or missing controls and recommend specific updates to strengthen the organization's governance posture. This is a foundational skill for any GRC or Information Security Analyst.
+This project demonstrates the process of performing a gap analysis on an existing corporate security policy in response to a new business initiative. The goal is to identify outdated or missing controls and recommend specific updates to strengthen the organization's governance posture.
 
 ---
 
