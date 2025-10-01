@@ -26,6 +26,10 @@ The analysis was performed on the company's existing **Acceptable Use Policy (AU
 * **Gap 2: Lack of Minimum Security Baselines for Devices**
     * **Analysis:** The policy does not mandate any specific security controls for the personal devices themselves. There are no requirements for device passcodes, biometrics, data encryption, VPN usage when on public Wi-Fi, or keeping the operating system updated.
     * **Risk:** An employee's unsecured personal device could be lost or stolen, providing an attacker with direct access to corporate data. Unpatched devices are also vulnerable to malware that could spread to the company network.
+
+* **Gap 3: No Defined Offboarding Process**
+    * **Analysis:** The policy does not define a procedure for removing corporate data and revoking access from personal devices when an employee resigns or is terminated.
+    * **Risk:** Former employees could retain access to sensitive emails, files, and contacts, posing a significant risk of intentional or accidental data leakage long after their employment has ended.
 ---
 
 ### 4. Recommendations & Revised Policy
